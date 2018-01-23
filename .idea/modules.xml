@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/emitter/emitter.iml" filepath="$PROJECT_DIR$/emitter/emitter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/processor/processor.iml" filepath="$PROJECT_DIR$/processor/processor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vertx-cep.iml" filepath="$PROJECT_DIR$/vertx-cep.iml" />
+    </modules>
+  </component>
+</project>
